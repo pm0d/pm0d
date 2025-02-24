@@ -1,4 +1,4 @@
-# Hi there 👋
+## Hi there 👋
 
 I'm Pramod, a curious learn-it-all person with a keen interest in coding, technologies and software. Welcome to my GitHub profile!
 
